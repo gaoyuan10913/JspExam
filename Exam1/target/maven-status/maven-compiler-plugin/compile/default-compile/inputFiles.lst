@@ -1,0 +1,11 @@
+D:\WorkSpaces\JspExam\Exam1\src\main\java\com\hand\servlet\CheckServlet.java
+D:\WorkSpaces\JspExam\Exam1\src\main\java\com\hand\service\CheckCustomerService.java
+D:\WorkSpaces\JspExam\Exam1\src\main\java\com\hand\entity\Category.java
+D:\WorkSpaces\JspExam\Exam1\src\main\java\com\hand\util\ConnectionDB.java
+D:\WorkSpaces\JspExam\Exam1\src\main\java\com\hand\dao\CustDao.java
+D:\WorkSpaces\JspExam\Exam1\src\main\java\com\hand\dao\impl\CustDaoImpl.java
+D:\WorkSpaces\JspExam\Exam1\src\main\java\com\hand\entity\Country.java
+D:\WorkSpaces\JspExam\Exam1\src\main\java\com\hand\entity\City.java
+D:\WorkSpaces\JspExam\Exam1\src\main\java\com\hand\entity\Actor.java
+D:\WorkSpaces\JspExam\Exam1\src\main\java\com\hand\entity\Customer.java
+D:\WorkSpaces\JspExam\Exam1\src\main\java\com\hand\entity\Address.java
