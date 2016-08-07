@@ -21,7 +21,8 @@ body {
 <div id="message">
 	登录成功<br/>
 	登录的用户名是：<%= request.getParameter("name") %><br/>
-	<a href="login.jsp">返回登录页面</a>
+	<a href="/ShowServlet">列表显示界面</a><br /> 
+	<a href="/LanguageServlet">新增电影</a>
 </div>
 </body>
 </html>

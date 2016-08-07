@@ -41,9 +41,11 @@ public class CheckServlet extends HttpServlet {
 			boolean bool = chu.check(cust);
 			if(bool){
 				forward = "success.jsp";
+				request.getSession().setAttribute("flag", "login_success");
 			}else{
 				request.setAttribute("msg",	"用户名输入错误");
 				forward = "error.jsp";
+				request.getSession().setAttribute("flag", "login_error");
 			}
 			rd = request.getRequestDispatcher(forward);
 			rd.forward(request, response);
