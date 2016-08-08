@@ -40,7 +40,7 @@
 			<td><%=film.getLanguage_name()%></td>
 			<td>
 				<a href="#">删除&nbsp;</a>
-				<a href="#">编辑&nbsp;</a>
+				<a href="/EditServlet?film_id=<%= film.getFilm_id()%>&title=<%= film.getTitle()%>&description=<%=film.getDescription()%>">编辑&nbsp;</a>
 			</td>
 		</tr>
 		<%

@@ -58,6 +58,15 @@
 		<url-pattern>/LogoutServlet</url-pattern>
 	</servlet-mapping>
 
+	<servlet>
+		<servlet-name>EditServlet</servlet-name>
+		<servlet-class>com.hand.servlet.EditServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>EditServlet</servlet-name>
+		<url-pattern>/EditServlet</url-pattern>
+	</servlet-mapping>
+
 	<filter>
 		<filter-name>PermissionFilter</filter-name>
 		<filter-class>com.hand.filter.PermissionFilter</filter-class>

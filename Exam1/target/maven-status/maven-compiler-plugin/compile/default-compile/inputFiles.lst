@@ -12,6 +12,7 @@ D:\WorkSpaces\JspExam\Exam1\src\main\java\com\hand\entity\Actor.java
 D:\WorkSpaces\JspExam\Exam1\src\main\java\com\hand\servlet\AddServlet.java
 D:\WorkSpaces\JspExam\Exam1\src\main\java\com\hand\entity\Customer.java
 D:\WorkSpaces\JspExam\Exam1\src\main\java\com\hand\servlet\CheckServlet.java
+D:\WorkSpaces\JspExam\Exam1\src\main\java\com\hand\servlet\EditServlet.java
 D:\WorkSpaces\JspExam\Exam1\src\main\java\com\hand\dao\impl\LanguageDaoImpl.java
 D:\WorkSpaces\JspExam\Exam1\src\main\java\com\hand\servlet\ShowServlet.java
 D:\WorkSpaces\JspExam\Exam1\src\main\java\com\hand\dao\CustDao.java
