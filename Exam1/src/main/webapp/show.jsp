@@ -15,7 +15,7 @@
 		<a href="index.jsp">返回</a>
 	</center>
 	
-	<table align="center" width="666" border="1" height="180"
+	<table align="center" width="1000" border="1" height="180"
 		bordercolor="white" bgcolor="black" cellpadding="1" cellspacing="1">
 		<tr align="center" bgcolor="#e1ffc1">
 			<td><b>ID</b></td>
